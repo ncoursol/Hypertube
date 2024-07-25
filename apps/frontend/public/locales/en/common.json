@@ -1,0 +1,206 @@
+{
+    "username": "Username",
+    "password": "Password",
+    "lastname": "Last name",
+    "firstname": "First name",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "NAM": "Not a member ?",
+    "settingsMsg": "Settings",
+    "getBack": "Get back home",
+    "navBar": {
+        "signOut": "Sign Out",
+        "profile": "Profile",
+        "browsing": "Browsing"
+    },
+    "settings": {
+        "noSignUp": "Impossible to sign up because ",
+        "amend": "Amend your profile"
+    },
+    "signin": {
+        "signinTitle": "Sign in to your account",
+        "forgot": "Forgot password ?",
+        "log42": "Login with 42",
+        "logGit": "Login with Github",
+        "logFb": "Login with Facebook",
+        "reset": "Reset Password"
+    },
+    "signup": {
+        "signUpError": "Impossible to sign up because ",
+        "AAM": "Already a member ?",
+        "member": "Become a member !"
+    },
+    "forgot": {
+        "emailSend": "Email Sent",
+        "title": "Forgot your password ?",
+        "noRecovery": "Impossible to recover because ",
+        "recoverPwd": "Recover password",
+        "rememberPwd": "Remember your password ?"
+    },
+    "confirm": {
+        "congrate": "Congratulations",
+        "linkLog": "Link validated. Please log in",
+        "error": "Error..",
+        "linkVal": "link already validated"
+    },
+    "forgot2": {
+        "pwdChange": "Password changed",
+        "newLog": "You can now log in using your new password",
+        "selectNewPwd": "Select a new password !",
+        "noPwdChange": "Impossible to change password because ",
+        "newPwd": "New password",
+        "changePwd": "Change password",
+        "oups": "Oops...",
+        "linkDead": "Links not working here"
+    },
+    "login": {
+        "authFail": "The authentication failed",
+        "accountTryAgain": "Your account is still here. You probably just need to try again.",
+        "tryAgain": "Try again"
+    },
+    "profile": {
+        "edit": "Edit",
+        "likedFilms": "Liked Movies",
+        "viewedFilms": "Viewed Movies"
+    },
+    "index": {
+        "movies": "Movies",
+        "release": "Release",
+        "duration": "Duration",
+        "tv": "TV Shows",
+        "availability": {
+           "name": "Availability",
+           "all": "All",
+           "server": "On Server"
+        },
+        "searchMovies": "Search movies by name...",
+        "search": "Search",
+        "genre": {
+            "name": "Genre",
+            "action": "Action",
+			"adventure": "Adventure",
+			"animation": "Animation",
+			"biography": "Biography",
+			"comedy": "Comedy",
+			"crime": "Crime",
+			"documentary": "Documentary",
+			"drama": "Drama",
+			"family": "Family",
+			"fantasy": "Fantasy",
+			"history": "History",
+			"horror": "Horror",
+			"music": "Music",
+			"musical": "Musical",
+			"mystery": "Mystery",
+			"romance": "Romance",
+			"sci-fi": "SciFi",
+			"sport": "Sport",
+			"thriller": "Thriller",
+			"war": "War",
+			"western": "Western"
+        },
+        "year": "Production Year",
+        "grade": "Rating",
+        "lang": {
+            "name": "Language",
+            "english": "English",
+            "french": "French"
+        },
+        "sort": {
+            "name": "Sort by",
+            "rating": "Rating",
+            "year": "Year",
+			"title": "Title",
+			"peers": "Peers",
+			"seeds": "Seeds",
+			"download_count": "Download count",
+			"like_count": "Like count",
+			"date_added": "Date added"
+        }
+    },
+    "404": {
+        "lostPage": "Page not found",
+        "sorry": "Sorry, we couldn't find the page you're looking for."
+    },
+    "errors": {
+        "errorMsg": "error",
+        "successMsg": "Success",
+        "NotConnected": "not connected",
+        "uknownUsername": "unknown user",
+        "invalidPassword": "invalid password",
+        "emailNotVerified": "email is not verified",
+        "missingPwd": "Missing password",
+        "missingUsername": "Missing username",
+        "invalidUsername": "invalid username format",
+        "usernameTaken": "username not available",
+        "emailTaken": "already an account with this email",
+        "invalidEmail": "invalid email",
+        "invalidFirstName": "wrong first name format",
+        "invalidLastName": "wrong last name format",
+        "wrongEmailFormat": "wrong email format",
+        "missingEmail": "Missing email",
+        "missingFirstName": "Missing first name",
+        "missingLastName": "Missing last name",
+        "weakPwd": "password too weak",
+        "invalidId": "Invalid Id",
+        "alreadyValid": "already validated",
+        "invalidPhotoExtension": "Invalid photo extension",
+        "emptyPhoto": "empty photo",
+        "photoTooBig": "size too big for picture",
+        "photoNbLimit": "too many pictures in profile",
+        "photoResolution": "incorrect rsolution for picture",
+        "emptyPhotoId": "empty filename",
+        "invalidPhotoId": "invalid filename"
+    },
+    "movie": {
+        "recommended": "Recommended Movies",
+        "rateOf": "out of",
+        "summary": "Summary",
+        "casting": "Casting",
+        "director": "Director",
+        "writer": "Writer",
+        "producer": "Producer",
+        "actor": "Actor",
+        "comments": "Comments",
+        "yourComment": "Your comment",
+        "writeComment": "Write a comment...",
+        "postComment": "Post comment",
+        "edit": "Edit",
+        "delete": "Delete",
+        "confirm": "Confirm",
+        "cancel": "Cancel"
+    },
+    "ConfirmMailRecoverySent": {
+        "check": "Check your emails...",
+        "recoveryLink": "A recovery link have been sent to your inbox."
+    },
+    "ConfirmUserCreation": {
+        "congrate": "Congratulations !",
+        "lastSteps": "Last steps.. Check your inbox to confirm your email !"
+    },
+    "UserAlreadySignedIn": {
+        "alreadySign": "You are already signed in"
+    },
+    "UserNotSignedIn": {
+        "getOut": "You cannot be here...",
+        "plsSign": "Please sign in or sign up to access this page !"
+    },
+    "invalidInput": "Invalid Input",
+    "userEmailExists": "This email is already used",
+    "userUsernameExists": "This username is already taken",
+    "userCreated": "Registration successful",
+    "invalidCredentials": "Invalid credentials",
+    "emailNotVerified": "Your email is not verified",
+    "wrongAuthMethodEMAIL": "An account already exists using email authentication",
+    "wrongAuthMethodGITHUB": "An account already exists using GitHub authentication",
+    "wrongAuthMethod[METHOD]": "An account already exists using method authentication",
+    "invalidConfirmId": "Confirmation code incorrect",
+    "alreadyValidated": "Email already validated",
+    "mailConfirmed": "Email confirmed",
+    "emailSent": "If this account exists, an email has been sent to your inbox",
+    "validConfirmId": "Confirmation code correct",
+    "pwdReseted": "Password successfully updated",
+    "signOut": "You're logged out",
+    "or": "or"
+}

@@ -1,0 +1,206 @@
+{
+    "username": "Identifiant",
+    "password": "Mot de passe",
+    "lastname": "Nom",
+    "firstname": "Prénom",
+    "signIn": "Connexion",
+    "signUp": "Inscription",
+    "email": "Email",
+    "NAM": "Pas encore membre ?",
+    "settingsMsg": "Paramètres",
+    "getBack": "Retour à l'accueil",
+    "navBar": {
+        "signOut": "Se déconnecter",
+        "profile": "Profil",
+        "browsing": "Rechercher"
+    },
+    "settings": {
+        "noSignUp": "Impossible de s'inscrire, ",
+        "amend": "Améliorer votre profil"
+    },
+    "signin": {
+        "signinTitle": "Connexion au compte",
+        "forgot": "Mot de passe oublié ?",
+        "log42": "Connexion avec 42",
+        "logGit": "Connexion avec Github",
+        "logFb": "Connexion avec Facebook",
+        "reset": "Changer de mot de passe"
+    },
+    "signup": {
+        "signUpError": "Impossible de s'inscrire, ",
+        "AAM": "Déjà membre ?",
+        "member": "Deviens membre !"
+    },
+    "forgot": {
+        "emailSend": "Email envoyé",
+        "title": "Mot de passe oublié ?",
+        "noRecovery": "Impossible de changer car ",
+        "recoverPwd": "Changer de mot de passe",
+        "rememberPwd": "Mot de passe retrouvé ?"
+    },
+    "confirm": {
+        "congrate": "Félicitations",
+        "linkLog": "Lien validé. Reconnectez-vous",
+        "error": "Erreur...",
+        "linkVal": "lien déjà validé."
+    },
+    "forgot2": {
+        "pwdChange": "Mot de passe changé",
+        "newLog": "Vous pouvez maintenant vous connecter avec votre nouveau mot de passe.",
+        "selectNewPwd": "Sélectionner un nouveau mot de passe !",
+        "noPwdChange": "Impossible de changer de mot de passe, ",
+        "newPwd": "Nouveau mot de passe",
+        "changePwd": "Changement de mot de passe",
+        "oups": "Oups...",
+        "linkDead": "Le lien ne fonctionne pas ici"
+    },
+    "login": {
+        "authFail": "L'authentification a échoué",
+        "accountTryAgain": "Votre compte est toujours là, vous devriez réessayer.",
+        "tryAgain": "Réessayer"
+    },
+    "profile": {
+        "edit": "Éditer",
+        "likedFilms": "Films aimés",
+        "viewedFilms": "Films vus"
+    },
+    "index": {
+        "movies": "Films",
+        "release": "Date de sortie",
+        "duration": "Durée",
+        "tv": "Séries",
+        "availability": {
+            "name": "Disponibilité",
+            "all": "Tout",
+            "server": "Sur le serveur"
+        },
+        "searchMovies": "Rechercher des films par nom...",
+        "search": "Rechercher",
+        "genre": {
+            "name": "Genre",
+            "action": "Action",
+            "adventure": "Aventure",
+            "animation": "Animation",
+            "biography": "Biographie",
+            "comedy": "Comédie",
+            "crime": "Crime",
+            "documentary": "Documentaire",
+            "drama": "Drame",
+            "family": "Famille",
+            "fantasy": "Fantaisie",
+            "history": "Histoire",
+            "horror": "Horreur",
+            "music": "Musique",
+            "musical": "Comédie Musicale",
+            "mystery": "Mystère",
+            "romance": "Romance",
+            "sci-fi": "SciFi",
+            "sport": "Sport",
+            "thriller": "Thriller",
+            "war": "Guerre",
+            "western": "Western"
+        },
+        "year": "Année de production",
+        "grade": "Note",
+        "lang": {
+            "name": "Langue",
+            "english": "Anglais",
+            "french": "Français"
+        },
+        "sort": {
+            "name": "Trier par",
+            "rating": "Classement",
+            "year": "Année",
+            "title": "Titre",
+            "peers": "Peers",
+            "seeds": "Seeds",
+            "download_count": "Nb téléchargement",
+            "like_count": "Nombre de favoris",
+            "date_added": "Date d'ajout"
+        }
+    },
+    "404": {
+        "lostPage": "Nous ne trouvons pas la page",
+        "sorry": "Désolé, nous n'avons pas trouvé la page que vous cherchez."
+    },
+    "errors": {
+        "errorMsg": "erreur",
+        "successMsg": "Succès",
+        "NotConnected": "déconnecté",
+        "unknownUsername": "utilisateur inconnu",
+        "invalidPassword": "mot de passe invalide",
+        "emailNotVerified": "l'e-mail n'est pas vérifié",
+        "missingPwd": "Mot de passe manquant",
+        "missingUsername": "Identifiant manquant",
+        "invalidUsername": "format d'identifiant invalide",
+        "usernameTaken": "identifiant déjà pris",
+        "emailTaken": "un compte possède déjà cette adresse e-mail",
+        "invalidEmail": "e-mail invalide",
+        "invalidFirstName": "mauvais format de prénom",
+        "invalidLastName": "mauvais format de nom",
+        "wrongEmailFormat": "mauvais format d'e-mail",
+        "missingEmail": "e-mail manquant",
+        "missingFirstName": "Prénom manquant",
+        "missingLastName": "Nom manquant",
+        "weakPwd": "mot de passe trop faible",
+        "invalidId": "ID invalide",
+        "alreadyValid": "déjà validé",
+        "invalidPhotoExtension": "Extension de photo invalide",
+        "emptyPhoto": "photo vide",
+        "photoTooBig": "l'image est trop volumineuse",
+        "photoNbLimit": "nombre d'images dépasse pour ce profil",
+        "photoResolution": "résolution d'image incorrecte",
+        "emptyPhotoId": "identifiant d'image vide",
+        "invalidPhotoId": "identifiant d'image invalide"
+    },
+    "movie": {
+        "recommended": "Films recommandés",
+        "rateOf": "sur",
+        "summary": "Résumé",
+        "casting": "Distribution",
+        "director": "Réalisateur",
+        "writer": "Scénariste",
+        "producer": "Producteur",
+        "actor": "Acteur",
+        "comments": "Commentaires",
+        "yourComment": "Votre commentaire",
+        "writeComment": "Écrire un commentaire...",
+        "postComment": "Publier le commentaire",
+        "edit": "Éditer",
+        "delete": "Supprimer",
+        "confirm": "Confirmer",
+        "cancel": "Annuler"
+    },
+    "ConfirmMailRecoverySent": {
+        "check": "Regarder vos e-mails...",
+        "recoveryLink": "Un lien de récupération a été envoyé à votre boîte de réception."
+    },
+    "ConfirmUserCreation": {
+        "congrate": "Félicitations !",
+        "lastSteps": "Dernières étapes... Vérifiez votre boîte de réception pour confirmer votre e-mail !"
+    },
+    "UserAlreadySignedIn": {
+        "alreadySign": "Vous êtes déjà connecté"
+    },
+    "UserNotSignedIn": {
+        "getOut": "Vous ne pouvez pas être ici...",
+        "plsSign": "Veuillez vous connecter ou vous inscrire pour accéder à cette page !"
+    },
+    "invalidInput": "Entrée invalide",
+    "userEmailExists": "Cet e-mail est déjà utilisé",
+    "userUsernameExists": "Ce nom d'utilisateur est déjà pris",
+    "userCreated": "Inscription réussie",
+    "invalidCredentials": "Identifiants invalides",
+    "emailNotVerified": "Votre email n'est pas vérifié",
+    "wrongAuthMethodEMAIL": "Un compte existe déjà en utilisant l'authentification par e-mail",
+    "wrongAuthMethodGITHUB": "Un compte existe déjà en utilisant l'authentification GitHub",
+    "wrongAuthMethod[METHOD]": "Un compte existe déjà en utilisant l'authentification par méthode",
+    "invalidConfirmId": "Code de confirmation incorrect",
+    "alreadyValidated": "E-mail déjà validé",
+    "mailConfirmed": "E-mail confirmé",
+    "emailSent": "Si ce compte existe, un e-mail a été envoyé à votre boîte de réception",
+    "validConfirmId": "Code de confirmation correct",
+    "pwdReseted": "Mot de passe mis à jour avec succès",
+    "signOut": "Vous êtes déconnecté",
+    "or": "ou"
+}
